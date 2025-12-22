@@ -1,0 +1,1 @@
+This repository contains code for obtaining stock data and backtesting a simple zscore mean-reversion strategy using Nautilus Trader.
